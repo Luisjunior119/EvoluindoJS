@@ -2,9 +2,7 @@
 
 ## Sobre 😎 :
 
-**Programa baseado no método 7-2-1 (70% coding, 20% networking, 10% branding). O Explorer contém o conteúdo para desenvolver habilidades técnicas e comportamentais, iniciar uma carreira sólida na programação e se tornar um dev destaque.**
-
-Repositório Licenciado ⚖ [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+**Após finalizar o curso do Instituto Proa, decidi evoluir minhas habilidades em javascript e achei que o curso Explorer é ideal para me auxiliar nessa jornada, podem ter certeza que sempre vou atualizar o repositório com os ensinamentos que absorver de todo esse conteúdo.**
 
 ## Contendo 🤓 :
 
@@ -77,7 +75,7 @@ Repositório Licenciado ⚖ [![Licence](https://img.shields.io/github/license/Il
 
 <img width="150px" align="left" src="https://avatars.githubusercontent.com/u/125493322?v=4"/>
 
-### [**Renan Leandro da Silva**](https://github.com/renyzeraa)
+### [**Luis de Santana**](https://github.com/Luisjunior119)
 
 🛠 `Full-Stack` Developer Jr. <br>
 📍 Saão Paulo - Brazil
