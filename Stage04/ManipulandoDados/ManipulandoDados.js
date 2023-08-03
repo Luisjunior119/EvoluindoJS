@@ -65,5 +65,41 @@
 // let phrase = "Eu quero viver o Amor!"
 // console.log(phrase.includes("Amor"))
 
-//PAREI NA AULA 131
+//PAREI NA AULA 132 CRIARNDO UM ARRAY COM CONSTRUCTOR
+
+// let MyArray = new Array('a', 'b', 'c')
+// console.log(MyArray)
+
+//AULA 133 COMO CONTAR ELEMENTOS DE UM ARRAY
+
+// console.log(['a', 'b', 'c'])
+
+// AULA 134 TRANSFORMANDO UMA CADEIA DE CARACTERES EM ELEMENTOS DE UM ARRAY
+
+// let word = 'manipulação'
+// console.log(Array.from(word))
+
+
+//AULA 135 MANIPULANDO ARRAYS
+
+let techs = ['html', 'css', 'js']
+
+//adicionar um item no fim
+// techs.push('nodejs')
+//adicionar no começo
+// techs.unshift('C#')
+//remover do fim
+// techs.pop()
+//remover do começo
+// techs.shift()
+//pegar somente alguns elementos do array
+// console.log(techs.slice(1, 3))
+//remover 1 ou mais items em qualquer posição do array
+// techs.splice(1, 2)
+//encontrar a posição de um elemento no array
+let index = techs.indexOf('css')
+console.log(index)
+
+
+
 
